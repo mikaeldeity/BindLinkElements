@@ -1,0 +1,6 @@
+C:\Users\MSantrolli\source\repos\BindLinkElements\Release\2017\BindLinkElements\BindLinkElements.dll
+C:\Users\MSantrolli\source\repos\BindLinkElements\obj\2017\BindLinkElements.csprojAssemblyReference.cache
+C:\Users\MSantrolli\source\repos\BindLinkElements\obj\2017\BindLinkElements.Properties.Resources.resources
+C:\Users\MSantrolli\source\repos\BindLinkElements\obj\2017\BindLinkElements.csproj.GenerateResource.cache
+C:\Users\MSantrolli\source\repos\BindLinkElements\obj\2017\BindLinkElements.csproj.CoreCompileInputs.cache
+C:\Users\MSantrolli\source\repos\BindLinkElements\obj\2017\BindLinkElements.dll
