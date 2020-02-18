@@ -2,7 +2,7 @@
 <RevitAddIns>
   <AddIn Type="Application">
     <Name>Bind Link Elements</Name>
-    <Assembly>.\BindLinkElements\BindLinkElements.dll</Assembly>
+    <Assembly>.\BindLinkElements.dll</Assembly>
     <AddInId>730e5876-e9ab-4d93-b823-cebd7795bc38</AddInId>
     <FullClassName>BindLinkElements.App</FullClassName>
     <VendorId>Foster and Partners</VendorId>

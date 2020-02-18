@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Bind Link Elements")]
-[assembly: AssemblyCopyright("Copyright © 2019 Foster and Partners")]
+[assembly: AssemblyCopyright("Copyright © 2020 Mikael Santrolli")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

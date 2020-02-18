@@ -21,7 +21,7 @@ namespace BindLinkElements
             PushButtonData b1Data = new PushButtonData("Copy", "Copy", thisAssemblyPath, "BindLinkElements.Copy");
             PushButton pb1 = ribbonPanel.AddItem(b1Data) as PushButton;
             pb1.ToolTip = "Copy Elements from Link Instances to current Document.";
-            BitmapImage pb1Image = new BitmapImage(new Uri(thisAssemblyPath.Replace("BindLinkElements.dll", "") + "BindLinkElements.png"));
+            BitmapImage pb1Image = new BitmapImage(new Uri("pack://application:,,,/BindLinkElements;component/Resources/BindLinkElements.png"));
             pb1.LargeImage = pb1Image;
         }
 
