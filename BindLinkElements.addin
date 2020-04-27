@@ -5,7 +5,7 @@
     <Assembly>.\BindLinkElements.dll</Assembly>
     <AddInId>730e5876-e9ab-4d93-b823-cebd7795bc38</AddInId>
     <FullClassName>BindLinkElements.App</FullClassName>
-    <VendorId>Foster and Partners</VendorId>
-    <VendorDescription>Foster and Partners</VendorDescription>
+    <VendorId>Mikael Santrolli</VendorId>
+    <VendorDescription>mikael.santrolli@gmail.com</VendorDescription>
   </AddIn>
 </RevitAddIns>
